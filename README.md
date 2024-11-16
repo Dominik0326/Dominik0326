@@ -1,6 +1,3 @@
-![Alternativtext](Bild-URL oder Pfad)
-
-
 - 👋 Hi, I’m @Dominik0326
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
